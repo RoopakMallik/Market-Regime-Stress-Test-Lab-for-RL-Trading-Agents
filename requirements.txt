@@ -1,0 +1,11 @@
+yfinance
+numpy
+pandas
+gymnasium
+stable-baselines3
+torch
+streamlit
+plotly
+groq
+python-dotenv
+pytest
